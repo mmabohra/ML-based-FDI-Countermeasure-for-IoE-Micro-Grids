@@ -11,12 +11,11 @@ several researchers use 33bus for microgrid simulations.
 
 ### High Priority
 
-4. **Advanced Attack Scenarios** ✅ COMPLETED
-   - ✅ Look for microgrid-specific attack scenarios (See ATTACK_SCENARIOS.md)
-   - ✅ Implement coordinated attacks on multiple buses (Type 4 attack)
-   - ✅ Test attacks targeting DER control signals (Type 1, 6 attacks)
-   - ✅ Investigate timing-based attacks during mode transitions (Type 5 attack)
-   - 📁 Files: MicrogridAttackScenarios.m, SimulateGrid_AdvancedAttacks.m, ATTACK_SCENARIOS.md
+4. **Advanced Attack Scenarios**
+   - Look for microgrid-specific attack scenarios 
+   - Implement coordinated attacks on multiple buses
+   - Test attacks targeting DER control signals 
+   - Investigate timing-based attacks during mode transitions 
 
 5. **Multiple Operating Conditions**
    - High solar generation (daytime peak)
