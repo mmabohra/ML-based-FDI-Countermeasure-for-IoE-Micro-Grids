@@ -53,8 +53,8 @@ matplotlib.rcParams.update({
 })
 
 # ── Paths ─────────────────────────────────────────────────────────────────────
-DATA_DIR   = r'C:\Users\abide\Downloads\FDI_Microgrid_Project (2)\FDI_Microgrid_Project\FDI_Microgrid_Project\MATLAB\VectorDataset_Droop_AC_Q'
-OUTPUT_DIR = r'C:\Users\abide\Downloads\FDI_Microgrid_Project (2)\FDI_Microgrid_Project\FDI_Microgrid_Project\MATLAB\VectorDataset_Droop_AC_Q'
+DATA_DIR   = r'VectorDataset_Droop_AC_Q'
+OUTPUT_DIR = r'VectorDataset_Droop_AC_Q'
 
 # IEEE figure widths (inches)
 PAGE_W = 7.16   # double-column (full width)
